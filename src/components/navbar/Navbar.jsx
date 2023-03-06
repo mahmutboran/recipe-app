@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Hamburger, Logo, Menu, MenuLink, Nav } from "./NavbarStyles";
-import {GiHamburgerMenu } from "react-icons/gi"
+// import {GiHamburgerMenu } from "react-icons/gi"
 
 const Navbar = () => {
 
